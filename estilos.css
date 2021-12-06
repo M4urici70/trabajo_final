@@ -1,0 +1,20 @@
+.body {
+    padding: auto;
+    margin: auto;
+}
+/* menu */
+#titulo {
+    background-color:black;
+}
+#menu a {
+    max-height: 19rem;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+
+#menu botton {
+    font-size: 18px;
+    font-weight: bold;
+ }
+
