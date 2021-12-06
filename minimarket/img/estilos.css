@@ -1,0 +1,26 @@
+.body {
+    font-family: 'montserrat',sans-serif;
+    overflow-x: hidden;
+}
+/* menu */
+#menu a {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+#menu botton {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+
+/* carousel */
+.carousel-inner {
+    max-height: 29rem;
+}
+.carousel-inner img {
+    width: 960px;
+    height: 1060;
+  
+}
